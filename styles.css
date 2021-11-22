@@ -1,0 +1,51 @@
+body {
+  background-color: black;
+  text-align: center;
+  color: white;
+  padding-left: 10vw;
+  padding-right: 10vw;
+}
+
+h1 {
+  font-size: 100px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color:crimson;
+}
+
+h2 {
+  font-size: 60px;
+}
+
+h3 {
+  font-size: medium;
+}
+
+h4 {
+  color:goldenrod;
+  font-size: 40px;
+}
+
+h5 {
+  color: silver;
+  font-size: 30px;
+}
+
+h6 {
+  color: rgb(110, 65, 65);
+  font-size: 20px;
+}
+
+p2 {
+  font-size: 20px;
+}
+
+div3: hover{
+  cursor: pointer;
+}
+
+button {
+  background-color: cyan;
+}
+button:hover{
+  cursor: pointer
+}
